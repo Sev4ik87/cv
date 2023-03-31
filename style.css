@@ -1,0 +1,49 @@
+.name{
+  color: rgb(11, 87, 90);
+  font-weight: bold;
+  
+}
+.start {
+  padding: 0px 0px 0px 30px;
+  font-style: italic;
+  font-size: 30px;
+  color: #211e58;}
+
+.start2 {
+  padding: 0px 0 0px 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+
+  
+    color: #260964;}
+  
+.contact {
+  padding: 0px 0 10px 30px;
+  font-style: oblique;
+  font-size: 15px;
+
+  
+    color: #636863;}
+     
+    .gmail {
+      padding: 0px 0 10px 30px;
+      font-style: oblique;
+      font-size: 15px;
+
+
+      
+        color: #656e65;}
+     .about {
+ padding:  0px 0px 0px 300px; 
+
+width: 600px;
+height: 275px
+
+        }
+        .about0 {
+          padding:  0px 40px 0px 40px; 
+         
+         
+         
+                 }
+        
